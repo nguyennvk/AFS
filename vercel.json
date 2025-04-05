@@ -4,6 +4,17 @@
         "src": "package.json",
         "use": "@vercel/next"
       }
-    ]  
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "/$1"
+      }
+    ],
+    "functions": {
+      "api/**/*.js": {
+        "maxDuration": 10
+      }
+    }
 }
   
