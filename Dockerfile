@@ -18,6 +18,6 @@ RUN npm run build
 EXPOSE 3000
 
 # Start the app
-CMD ["sh", "-c", "npx prisma migrate dev && npx prisma generate && node data/fetch.js && node data/populate_data.js && npm run dev"]
-# CMD ["sh", "-c", "npx prisma migrate deploy && npx prisma generate && node data/fetch.js && node data/populate_data.js && npm run"]
+# CMD ["sh", "-c", "npx prisma migrate dev && npx prisma generate && node data/fetch.js && node data/populate_data.js && npm run dev"]
+CMD ["sh", "-c", "npx prisma migrate deploy && npx prisma generate && node data/fetch.js && node data/populate_data.js && npm run"]
 
