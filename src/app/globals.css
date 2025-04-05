@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --card-bg: #f8f9fa;
+  --form-bg: #f0f2f5;
+  --form-input-bg: #bdbdbd;
+  --primary: #3b82f6;
+  --primary-hover: #2563eb;
+  --primary-light: #e0edff;
+  --primary-light-hover: #cce0ff;
+  --border: #e5e7eb;
+  --input-bg: #f0f2f5;
+  --input-text: #111827;
+  --text: #000000;
+  --button-bg: #3b82f6;
+  --button-text: #150f6e;
+  --header-bg: rgba(255, 255, 255, 0.8);
+  --nav-text: #4b5563;
+  --nav-text-hover: #1f2937;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+/* Remove media query that might interfere with class-based dark mode */
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+} */
+
+/* Add class-based dark mode variables instead */
+.dark {
+  --background: #121212;
+  --foreground: #f3f4f6;
+  --card-bg: #1f2937;
+  --form-bg: #374151;
+  --form-input-bg: #1f2937;
+  --primary: #60a5fa;
+  --primary-hover: #93c5fd;
+  --primary-light: #1e3a8a;
+  --primary-light-hover: #1e40af;
+  --border: #374151;
+  --text: #ffffff;
+  --input-bg: #694536;
+  --input-text: #f3f4f6;
+  --button-bg: #60a5fa;
+  --button-text: #ffffff;
+  --header-bg: rgba(17, 24, 39, 0.8);
+  --nav-text: #9ca3af;
+  --nav-text-hover: #f9fafb;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+}
+

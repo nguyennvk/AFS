@@ -1,0 +1,136 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+  // url      = "postgresql://csc309:csc309@localhost:5432/mydb?schema=public"
+}
+
+// AFS Data Models
+model City {
+  id        String   @id @default(uuid())
+  city      String
+  country   String
+  airports  Airport[]
+  hotels    Hotel[]  // Relation to hotels in this city
+
+  @@unique([city, country])  // Each city-country combination must be unique
+  @@index([city])  // Index for faster city searches
+}
+
+model Airport {
+  id        String   @id @default(uuid())
+  code      String   @unique
+  name      String
+  city      String
+  country   String
+  cityRef   City     @relation(fields: [city, country], references: [city, country])
+
+  @@index([code])  // Index for faster airport code lookups
+  @@index([city])  // Index for faster city-based searches
+}
+
+
+model Account {
+  account_id                Int   @id @default(autoincrement())
+
+  account_email             String @unique
+  account_password          String 
+  account_picture           String @default("")
+
+  account_first_name        String 
+  account_last_name         String @default("")
+  account_phone_number      String @unique
+
+  account_notifications     Notification[]
+  manage                    Hotel[]
+  reservation               Reservation[]
+  book                      Booking[]
+}
+
+model Hotel {
+  hotel_id                  Int   @id @default(autoincrement())
+  hotel_name                String
+  hotel_street              String  // actual address
+  hotel_city                String  // actual address
+  hotel_country             String  // actual address
+  hotel_location_long       Float  // location on a map?
+  hotel_location_lat        Float
+  hotel_review_point        Float  @default(0)
+  hotel_review_num          Int    @default(0)
+  hotel_description         String? @default("") // added by Zaed
+  hotel_rating              Float  @default(0)
+
+  hotel_logo                String @default("")
+  hotel_image_dir           String[] @default([""])
+
+  owner_id                  Int
+
+  hotel_rooms               Room[]
+  owner                     Account @relation(fields: [owner_id], references: [account_id])
+  city                      City    @relation(fields: [hotel_city, hotel_country], references: [city, country])
+}
+
+model Room {
+  room_number               String
+  room_type                 String 
+  room_price                Float @default(0)
+  room_amenities            String? @default("")
+  room_image_dir            String[] @default([""])
+  
+
+  hotel_id                  Int
+  hotel                     Hotel @relation(fields: [hotel_id], references: [hotel_id])
+  reservation               Reservation[]
+
+  @@id([room_number, hotel_id])
+}
+
+enum BOOK_STATUS {
+  PAID
+  UNPAID
+}
+
+model Reservation{
+  reservation_id            Int @id @default(autoincrement())
+  hotel_id                  Int
+  room_number               String
+  customer_id               Int
+  start_date                DateTime
+  end_date                  DateTime
+  status                    BOOK_STATUS
+  
+  room Room @relation(fields: [room_number, hotel_id], references: [room_number, hotel_id])
+  customer Account @relation(fields: [customer_id], references: [account_id])
+
+}
+
+model Booking{
+  customer_id               Int
+  booking_reference         String @id
+  status                    BOOK_STATUS
+  customer                  Account @relation(fields: [customer_id], references: [account_id])
+
+}
+
+
+model Notification {
+  notification_id           Int @id  @default(autoincrement())
+  notification_type         String @default("")
+  notification_message      String @default("")
+  notification_date         DateTime @default(now())
+
+  notification_read         Boolean @default(false)
+
+  account_id                Int @default(0)
+  account                   Account @relation(fields: [account_id], references: [account_id])
+
+}

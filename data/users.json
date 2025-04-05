@@ -1,0 +1,534 @@
+[
+    {
+        "first_name": "Nguyen",
+        "last_name": "Nguyen",
+        "email":"nguyen.nguyen@mail.utoronto.ca",
+        "phone_number": "999999999",
+        "password": "UofT.2026"
+    },
+    {
+        "first_name": "Theresa",
+        "last_name": "Miller",
+        "email": "amyparrish@hotmail.com",
+        "phone_number": "3427006456",
+        "password": "UofT.2026"
+    },
+    {
+        "first_name": "Katherine",
+        "last_name": "Williams",
+        "email": "davidobrien@miller-huynh.com",
+        "phone_number": "770.455.6599x6508",
+        "password": "UofT.2026"
+    },
+    {
+        "first_name": "Sara",
+        "last_name": "Craig",
+        "email": "philipwhite@hotmail.com",
+        "phone_number": "793-366-8434x77867",
+        "password": "UofT.2030"
+    },
+    {
+        "first_name": "Brian",
+        "last_name": "Sandoval",
+        "email": "nnewman@martinez-manning.net",
+        "phone_number": "980-441-0256x832",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "Kimberly",
+        "last_name": "Thompson",
+        "email": "moraleslisa@yahoo.com",
+        "phone_number": "923-961-3064",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "David",
+        "last_name": "Thompson",
+        "email": "jeremiah15@mckee.com",
+        "phone_number": "(592)051-0624x5913",
+        "password": "UofT.2029"
+    },
+    {
+        "first_name": "Jessica",
+        "last_name": "Foley",
+        "email": "lewiskimberly@yahoo.com",
+        "phone_number": "+1-986-896-0072x4255",
+        "password": "UofT.2026"
+    },
+    {
+        "first_name": "Dustin",
+        "last_name": "Gould",
+        "email": "noahsmith@yahoo.com",
+        "phone_number": "001-227-979-0541x41448",
+        "password": "UofT.2026"
+    },
+    {
+        "first_name": "Sara",
+        "last_name": "Horn",
+        "email": "deanna35@cox-bowman.com",
+        "phone_number": "001-640-499-6853x4321",
+        "password": "UofT.2029"
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Garner",
+        "email": "katelynowens@mitchell.net",
+        "phone_number": "(870)915-4177",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "Rebecca",
+        "last_name": "Spears",
+        "email": "bowmanjames@lopez-smith.net",
+        "phone_number": "+1-752-068-9840",
+        "password": "UofT.2025"
+    },
+    {
+        "first_name": "Craig",
+        "last_name": "Shelton",
+        "email": "krivera@yahoo.com",
+        "phone_number": "906.886.6017",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "Anna",
+        "last_name": "Taylor",
+        "email": "jeromejohnson@gmail.com",
+        "phone_number": "001-852-936-2781",
+        "password": "UofT.2027"
+    },
+    {
+        "first_name": "Joshua",
+        "last_name": "Stewart",
+        "email": "kanejerry@patton.com",
+        "phone_number": "524-754-3527",
+        "password": "UofT.2030"
+    },
+    {
+        "first_name": "Brandon",
+        "last_name": "Daniel",
+        "email": "pjohnson@yahoo.com",
+        "phone_number": "+1-574-401-5019x3853",
+        "password": "UofT.2025"
+    },
+    {
+        "first_name": "Andrew",
+        "last_name": "Myers",
+        "email": "wendybennett@white.com",
+        "phone_number": "670-997-6130x98267",
+        "password": "UofT.2026"
+    },
+    {
+        "first_name": "Benjamin",
+        "last_name": "Bryant",
+        "email": "fking@stone.com",
+        "phone_number": "695.207.4578",
+        "password": "UofT.2026"
+    },
+    {
+        "first_name": "Chad",
+        "last_name": "Mendoza",
+        "email": "gwhite@lopez.net",
+        "phone_number": "+1-975-963-9668x140",
+        "password": "UofT.2026"
+    },
+    {
+        "first_name": "Frank",
+        "last_name": "Moore",
+        "email": "jwall@hotmail.com",
+        "phone_number": "281.238.6714x82847",
+        "password": "UofT.2030"
+    },
+    {
+        "first_name": "Juan",
+        "last_name": "Smith",
+        "email": "travismartin@johnson.com",
+        "phone_number": "(236)923-0380x0302",
+        "password": "UofT.2030"
+    },
+    {
+        "first_name": "Meagan",
+        "last_name": "Berry",
+        "email": "shaun06@yahoo.com",
+        "phone_number": "597.657.4740",
+        "password": "UofT.2026"
+    },
+    {
+        "first_name": "Thomas",
+        "last_name": "Reilly",
+        "email": "brightrachel@hotmail.com",
+        "phone_number": "698.055.5561x628",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "Jared",
+        "last_name": "James",
+        "email": "stephanie39@coleman.biz",
+        "phone_number": "+1-643-116-5888x538",
+        "password": "UofT.2026"
+    },
+    {
+        "first_name": "Gary",
+        "last_name": "Johnson",
+        "email": "christopherwright@reyes.com",
+        "phone_number": "001-875-036-7178x976",
+        "password": "UofT.2030"
+    },
+    {
+        "first_name": "Derek",
+        "last_name": "Mcfarland",
+        "email": "czhang@yahoo.com",
+        "phone_number": "(322)707-2921",
+        "password": "UofT.2029"
+    },
+    {
+        "first_name": "Susan",
+        "last_name": "Nolan",
+        "email": "elliottmicheal@hotmail.com",
+        "phone_number": "090.187.2712x97574",
+        "password": "UofT.2027"
+    },
+    {
+        "first_name": "Monica",
+        "last_name": "Martin",
+        "email": "moorenicholas@townsend.com",
+        "phone_number": "+1-276-491-7974x5641",
+        "password": "UofT.2030"
+    },
+    {
+        "first_name": "Garrett",
+        "last_name": "Brown",
+        "email": "otran@johnson.com",
+        "phone_number": "+1-043-348-2542x1929",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "Mark",
+        "last_name": "Torres",
+        "email": "justin05@miller.com",
+        "phone_number": "(149)204-7496x38349",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "Steven",
+        "last_name": "Sanchez",
+        "email": "chelsea50@martinez.com",
+        "phone_number": "(891)272-0821x413",
+        "password": "UofT.2025"
+    },
+    {
+        "first_name": "Deborah",
+        "last_name": "Vazquez",
+        "email": "debra26@berry.com",
+        "phone_number": "(973)595-2964",
+        "password": "UofT.2025"
+    },
+    {
+        "first_name": "Carla",
+        "last_name": "Hansen",
+        "email": "christine45@gmail.com",
+        "phone_number": "6399613424",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "Christopher",
+        "last_name": "Harding",
+        "email": "zmatthews@yahoo.com",
+        "phone_number": "4686745316",
+        "password": "UofT.2025"
+    },
+    {
+        "first_name": "Russell",
+        "last_name": "Hurley",
+        "email": "jeannehouston@gmail.com",
+        "phone_number": "(930)724-0890",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "Stephen",
+        "last_name": "Hammond",
+        "email": "reyeskarina@hotmail.com",
+        "phone_number": "555-142-8962",
+        "password": "UofT.2029"
+    },
+    {
+        "first_name": "Eric",
+        "last_name": "Greene",
+        "email": "christinewilliams@hotmail.com",
+        "phone_number": "550.410.3331",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "Robert",
+        "last_name": "Cooper",
+        "email": "cynthiapowell@hotmail.com",
+        "phone_number": "010-068-1764x27909",
+        "password": "UofT.2030"
+    },
+    {
+        "first_name": "Robert",
+        "last_name": "Macdonald",
+        "email": "lawsondavid@gmail.com",
+        "phone_number": "084.110.5861",
+        "password": "UofT.2027"
+    },
+    {
+        "first_name": "Felicia",
+        "last_name": "Moore",
+        "email": "gina48@yahoo.com",
+        "phone_number": "649.466.0715x68658",
+        "password": "UofT.2029"
+    },
+    {
+        "first_name": "Bobby",
+        "last_name": "Rodriguez",
+        "email": "xwright@hotmail.com",
+        "phone_number": "958.076.8913",
+        "password": "UofT.2027"
+    },
+    {
+        "first_name": "Shelby",
+        "last_name": "Wood",
+        "email": "thompsonjulie@torres.com",
+        "phone_number": "5855254671",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "Kristen",
+        "last_name": "Smith",
+        "email": "jeffreycox@perez.com",
+        "phone_number": "001-945-566-8409x345",
+        "password": "UofT.2027"
+    },
+    {
+        "first_name": "Jennifer",
+        "last_name": "Jimenez",
+        "email": "ruthblack@yahoo.com",
+        "phone_number": "496-061-5450",
+        "password": "UofT.2027"
+    },
+    {
+        "first_name": "Kathryn",
+        "last_name": "Davis",
+        "email": "callahanjason@hebert.com",
+        "phone_number": "240.525.7216x2133",
+        "password": "UofT.2025"
+    },
+    {
+        "first_name": "Brian",
+        "last_name": "Chambers",
+        "email": "raymondzamora@yahoo.com",
+        "phone_number": "001-562-457-9832",
+        "password": "UofT.2029"
+    },
+    {
+        "first_name": "David",
+        "last_name": "Parker",
+        "email": "hamptonseth@gmail.com",
+        "phone_number": "(727)941-2323",
+        "password": "UofT.2030"
+    },
+    {
+        "first_name": "David",
+        "last_name": "Miller",
+        "email": "christine52@woods.com",
+        "phone_number": "601.736.8715x0805",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "Greg",
+        "last_name": "Alvarado",
+        "email": "stephanie26@lewis-cox.com",
+        "phone_number": "152-582-8920x928",
+        "password": "UofT.2027"
+    },
+    {
+        "first_name": "Leslie",
+        "last_name": "Murphy",
+        "email": "jack78@martinez-foster.biz",
+        "phone_number": "310-804-9128x040",
+        "password": "UofT.2027"
+    },
+    {
+        "first_name": "Christopher",
+        "last_name": "Greene",
+        "email": "martinezkristen@mendez.info",
+        "phone_number": "578.673.7467x586",
+        "password": "UofT.2030"
+    },
+    {
+        "first_name": "Jessica",
+        "last_name": "Washington",
+        "email": "erin60@gmail.com",
+        "phone_number": "+1-417-368-1021x8444",
+        "password": "UofT.2029"
+    },
+    {
+        "first_name": "Reginald",
+        "last_name": "Fields",
+        "email": "mackenzie73@gmail.com",
+        "phone_number": "354-609-5789x5686",
+        "password": "UofT.2029"
+    },
+    {
+        "first_name": "Rebecca",
+        "last_name": "Sims",
+        "email": "james21@soto.info",
+        "phone_number": "(910)413-2602",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "Gary",
+        "last_name": "Washington",
+        "email": "delgadojanice@cox.info",
+        "phone_number": "+1-298-605-9207x12368",
+        "password": "UofT.2029"
+    },
+    {
+        "first_name": "Crystal",
+        "last_name": "Pope",
+        "email": "brian05@knight.com",
+        "phone_number": "6799290624",
+        "password": "UofT.2026"
+    },
+    {
+        "first_name": "Steven",
+        "last_name": "Weaver",
+        "email": "xrodgers@yahoo.com",
+        "phone_number": "(279)793-6716",
+        "password": "UofT.2030"
+    },
+    {
+        "first_name": "Lori",
+        "last_name": "Valentine",
+        "email": "fraziersteven@yahoo.com",
+        "phone_number": "(068)792-9072x86944",
+        "password": "UofT.2029"
+    },
+    {
+        "first_name": "Billy",
+        "last_name": "Greene",
+        "email": "boltonryan@orr.com",
+        "phone_number": "463-454-4214",
+        "password": "UofT.2029"
+    },
+    {
+        "first_name": "Sean",
+        "last_name": "Avery",
+        "email": "charleshubbard@powers.com",
+        "phone_number": "038.019.8810",
+        "password": "UofT.2029"
+    },
+    {
+        "first_name": "Brenda",
+        "last_name": "Price",
+        "email": "schultzsarah@thomas-owens.info",
+        "phone_number": "+1-208-829-6958x238",
+        "password": "UofT.2029"
+    },
+    {
+        "first_name": "Brooke",
+        "last_name": "Garcia",
+        "email": "bstewart@gmail.com",
+        "phone_number": "964-940-0916x8796",
+        "password": "UofT.2030"
+    },
+    {
+        "first_name": "Elizabeth",
+        "last_name": "Friedman",
+        "email": "michaelwhite@ponce.com",
+        "phone_number": "368.923.3432",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "Natalie",
+        "last_name": "Everett",
+        "email": "kimberlywalton@lindsey.org",
+        "phone_number": "+1-504-101-5791x1592",
+        "password": "UofT.2030"
+    },
+    {
+        "first_name": "Casey",
+        "last_name": "Miller",
+        "email": "brianrivera@clark-cook.com",
+        "phone_number": "(972)902-7717x43461",
+        "password": "UofT.2029"
+    },
+    {
+        "first_name": "Krystal",
+        "last_name": "Avila",
+        "email": "oscott@murray.com",
+        "phone_number": "001-727-234-1466",
+        "password": "UofT.2030"
+    },
+    {
+        "first_name": "Lori",
+        "last_name": "Robinson",
+        "email": "williamsbrian@wolfe.org",
+        "phone_number": "848-786-6050x90513",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "Mike",
+        "last_name": "Santos",
+        "email": "kayla09@hunt.com",
+        "phone_number": "129-791-5494",
+        "password": "UofT.2029"
+    },
+    {
+        "first_name": "Mark",
+        "last_name": "Rivera",
+        "email": "aimee52@brown-perry.com",
+        "phone_number": "032.723.9321x14366",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "Matthew",
+        "last_name": "Martin",
+        "email": "smithchristopher@allen.org",
+        "phone_number": "(084)919-9412x135",
+        "password": "UofT.2025"
+    },
+    {
+        "first_name": "Maurice",
+        "last_name": "Richards",
+        "email": "coxcrystal@yahoo.com",
+        "phone_number": "616-331-6551",
+        "password": "UofT.2028"
+    },
+    {
+        "first_name": "Crystal",
+        "last_name": "Campbell",
+        "email": "joanjackson@hotmail.com",
+        "phone_number": "(066)319-7526x6872",
+        "password": "UofT.2025"
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Anderson",
+        "email": "gwoodward@floyd.info",
+        "phone_number": "+1-780-308-0572x822",
+        "password": "UofT.2027"
+    },
+    {
+        "first_name": "Mark",
+        "last_name": "Ramirez",
+        "email": "iperry@edwards.com",
+        "phone_number": "7314798559",
+        "password": "UofT.2027"
+    },
+    {
+        "first_name": "Chad",
+        "last_name": "Hart",
+        "email": "erobinson@hotmail.com",
+        "phone_number": "001-807-337-1021x638",
+        "password": "UofT.2029"
+    },
+    {
+        "first_name": "Joseph",
+        "last_name": "Cain",
+        "email": "bergamy@bradley.com",
+        "phone_number": "+1-247-546-2065",
+        "password": "UofT.2027"
+    }
+]

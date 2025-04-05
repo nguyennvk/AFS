@@ -1,0 +1,702 @@
+[
+    {
+        "room_number": "897",
+        "room_type": "Family",
+        "room_price": 388.17,
+        "room_amenities": "Jacuzzi, TV, AC, Sea View, Kitchenette",
+        "hotel_id": 17
+    },
+    {
+        "room_number": "753",
+        "room_type": "Single",
+        "room_price": 107.17,
+        "room_amenities": "",
+        "hotel_id": 13
+    },
+    {
+        "room_number": "321",
+        "room_type": "Single",
+        "room_price": 127.06,
+        "room_amenities": "Mini Bar, Balcony",
+        "hotel_id": 30
+    },
+    {
+        "room_number": "846",
+        "room_type": "Single",
+        "room_price": 378.33,
+        "room_amenities": "Jacuzzi, Sea View, TV, AC, Kitchenette, WiFi",
+        "hotel_id": 31
+    },
+    {
+        "room_number": "869",
+        "room_type": "Family",
+        "room_price": 128.63,
+        "room_amenities": "",
+        "hotel_id": 28
+    },
+    {
+        "room_number": "739",
+        "room_type": "Single",
+        "room_price": 70.56,
+        "room_amenities": "WiFi, Kitchenette, Sea View, Jacuzzi, TV, Balcony, AC",
+        "hotel_id": 37
+    },
+    {
+        "room_number": "248",
+        "room_type": "Double",
+        "room_price": 445.06,
+        "room_amenities": "Sea View, WiFi, Kitchenette, Jacuzzi",
+        "hotel_id": 8
+    },
+    {
+        "room_number": "349",
+        "room_type": "Family",
+        "room_price": 307.51,
+        "room_amenities": "Kitchenette",
+        "hotel_id": 23
+    },
+    {
+        "room_number": "445",
+        "room_type": "Deluxe",
+        "room_price": 310.37,
+        "room_amenities": "WiFi, Mini Bar, Kitchenette",
+        "hotel_id": 43
+    },
+    {
+        "room_number": "802",
+        "room_type": "Double",
+        "room_price": 402.85,
+        "room_amenities": "Jacuzzi, Sea View, TV, WiFi, Mini Bar, AC, Kitchenette",
+        "hotel_id": 44
+    },
+    {
+        "room_number": "808",
+        "room_type": "Single",
+        "room_price": 288.62,
+        "room_amenities": "",
+        "hotel_id": 29
+    },
+    {
+        "room_number": "676",
+        "room_type": "Double",
+        "room_price": 183.26,
+        "room_amenities": "",
+        "hotel_id": 35
+    },
+    {
+        "room_number": "719",
+        "room_type": "Family",
+        "room_price": 458.99,
+        "room_amenities": "TV, WiFi, Balcony, Jacuzzi",
+        "hotel_id": 42
+    },
+    {
+        "room_number": "523",
+        "room_type": "Single",
+        "room_price": 166.22,
+        "room_amenities": "Balcony, TV",
+        "hotel_id": 47
+    },
+    {
+        "room_number": "990",
+        "room_type": "Double",
+        "room_price": 124.64,
+        "room_amenities": "WiFi, AC",
+        "hotel_id": 52
+    },
+    {
+        "room_number": "200",
+        "room_type": "Family",
+        "room_price": 370.39,
+        "room_amenities": "AC, Sea View, Jacuzzi, Mini Bar",
+        "hotel_id": 37
+    },
+    {
+        "room_number": "138",
+        "room_type": "Family",
+        "room_price": 389.25,
+        "room_amenities": "",
+        "hotel_id": 18
+    },
+    {
+        "room_number": "431",
+        "room_type": "Deluxe",
+        "room_price": 209.82,
+        "room_amenities": "Mini Bar, TV, Sea View, Jacuzzi",
+        "hotel_id": 53
+    },
+    {
+        "room_number": "673",
+        "room_type": "Single",
+        "room_price": 180.8,
+        "room_amenities": "Balcony, Mini Bar, WiFi, AC, TV, Kitchenette, Sea View, Jacuzzi",
+        "hotel_id": 28
+    },
+    {
+        "room_number": "994",
+        "room_type": "Deluxe",
+        "room_price": 344.9,
+        "room_amenities": "Balcony, Mini Bar",
+        "hotel_id": 20
+    },
+    {
+        "room_number": "305",
+        "room_type": "Double",
+        "room_price": 141.37,
+        "room_amenities": "Jacuzzi, TV",
+        "hotel_id": 12
+    },
+    {
+        "room_number": "244",
+        "room_type": "Double",
+        "room_price": 265.89,
+        "room_amenities": "Kitchenette",
+        "hotel_id": 35
+    },
+    {
+        "room_number": "837",
+        "room_type": "Suite",
+        "room_price": 188.17,
+        "room_amenities": "Sea View, TV",
+        "hotel_id": 31
+    },
+    {
+        "room_number": "874",
+        "room_type": "Double",
+        "room_price": 348.35,
+        "room_amenities": "Mini Bar, Sea View, WiFi, Kitchenette, Jacuzzi, TV, AC, Balcony",
+        "hotel_id": 21
+    },
+    {
+        "room_number": "429",
+        "room_type": "Double",
+        "room_price": 305.56,
+        "room_amenities": "WiFi, TV, Sea View, Kitchenette",
+        "hotel_id": 27
+    },
+    {
+        "room_number": "582",
+        "room_type": "Family",
+        "room_price": 416.65,
+        "room_amenities": "Sea View, Mini Bar, Jacuzzi, Balcony",
+        "hotel_id": 58
+    },
+    {
+        "room_number": "606",
+        "room_type": "Family",
+        "room_price": 352.54,
+        "room_amenities": "WiFi, Sea View, AC, Kitchenette, Mini Bar, TV, Balcony",
+        "hotel_id": 12
+    },
+    {
+        "room_number": "844",
+        "room_type": "Family",
+        "room_price": 325.94,
+        "room_amenities": "Kitchenette, AC, WiFi, Jacuzzi, TV",
+        "hotel_id": 41
+    },
+    {
+        "room_number": "325",
+        "room_type": "Suite",
+        "room_price": 475.46,
+        "room_amenities": "AC, WiFi",
+        "hotel_id": 15
+    },
+    {
+        "room_number": "802",
+        "room_type": "Deluxe",
+        "room_price": 320.31,
+        "room_amenities": "Jacuzzi",
+        "hotel_id": 8
+    },
+    {
+        "room_number": "929",
+        "room_type": "Double",
+        "room_price": 108.32,
+        "room_amenities": "Balcony, WiFi, Mini Bar, Sea View, Jacuzzi, TV, Kitchenette",
+        "hotel_id": 29
+    },
+    {
+        "room_number": "396",
+        "room_type": "Deluxe",
+        "room_price": 427.97,
+        "room_amenities": "Sea View, Jacuzzi, WiFi, Kitchenette, AC, Mini Bar",
+        "hotel_id": 58
+    },
+    {
+        "room_number": "216",
+        "room_type": "Double",
+        "room_price": 362.6,
+        "room_amenities": "TV, Balcony, Jacuzzi, Kitchenette, WiFi, AC",
+        "hotel_id": 8
+    },
+    {
+        "room_number": "850",
+        "room_type": "Double",
+        "room_price": 233.35,
+        "room_amenities": "WiFi, Mini Bar",
+        "hotel_id": 12
+    },
+    {
+        "room_number": "974",
+        "room_type": "Suite",
+        "room_price": 177.49,
+        "room_amenities": "Sea View",
+        "hotel_id": 41
+    },
+    {
+        "room_number": "519",
+        "room_type": "Single",
+        "room_price": 186.38,
+        "room_amenities": "Sea View",
+        "hotel_id": 4
+    },
+    {
+        "room_number": "113",
+        "room_type": "Deluxe",
+        "room_price": 164.19,
+        "room_amenities": "AC, Balcony, TV, Mini Bar, Sea View",
+        "hotel_id": 1
+    },
+    {
+        "room_number": "637",
+        "room_type": "Family",
+        "room_price": 286.63,
+        "room_amenities": "",
+        "hotel_id": 29
+    },
+    {
+        "room_number": "342",
+        "room_type": "Double",
+        "room_price": 292.78,
+        "room_amenities": "",
+        "hotel_id": 36
+    },
+    {
+        "room_number": "683",
+        "room_type": "Single",
+        "room_price": 495.15,
+        "room_amenities": "Balcony, Kitchenette, WiFi, Mini Bar, Jacuzzi, TV",
+        "hotel_id": 7
+    },
+    {
+        "room_number": "298",
+        "room_type": "Family",
+        "room_price": 349.7,
+        "room_amenities": "WiFi",
+        "hotel_id": 8
+    },
+    {
+        "room_number": "641",
+        "room_type": "Family",
+        "room_price": 120.0,
+        "room_amenities": "",
+        "hotel_id": 59
+    },
+    {
+        "room_number": "488",
+        "room_type": "Single",
+        "room_price": 211.27,
+        "room_amenities": "Mini Bar, AC, Balcony, TV, Kitchenette, Jacuzzi, Sea View, WiFi",
+        "hotel_id": 9
+    },
+    {
+        "room_number": "576",
+        "room_type": "Deluxe",
+        "room_price": 172.11,
+        "room_amenities": "Kitchenette, Mini Bar, Sea View, AC",
+        "hotel_id": 7
+    },
+    {
+        "room_number": "196",
+        "room_type": "Double",
+        "room_price": 105.75,
+        "room_amenities": "",
+        "hotel_id": 48
+    },
+    {
+        "room_number": "129",
+        "room_type": "Suite",
+        "room_price": 98.29,
+        "room_amenities": "",
+        "hotel_id": 35
+    },
+    {
+        "room_number": "676",
+        "room_type": "Double",
+        "room_price": 457.05,
+        "room_amenities": "Balcony, Sea View",
+        "hotel_id": 11
+    },
+    {
+        "room_number": "406",
+        "room_type": "Family",
+        "room_price": 395.72,
+        "room_amenities": "Kitchenette, WiFi, Jacuzzi, AC, Balcony, Mini Bar",
+        "hotel_id": 9
+    },
+    {
+        "room_number": "492",
+        "room_type": "Suite",
+        "room_price": 440.6,
+        "room_amenities": "AC, TV",
+        "hotel_id": 48
+    },
+    {
+        "room_number": "702",
+        "room_type": "Family",
+        "room_price": 192.53,
+        "room_amenities": "Sea View, TV, AC, WiFi, Balcony, Kitchenette",
+        "hotel_id": 33
+    },
+    {
+        "room_number": "758",
+        "room_type": "Suite",
+        "room_price": 289.86,
+        "room_amenities": "Jacuzzi, WiFi, Sea View, Balcony, TV, Mini Bar",
+        "hotel_id": 28
+    },
+    {
+        "room_number": "464",
+        "room_type": "Single",
+        "room_price": 176.43,
+        "room_amenities": "Sea View, WiFi, TV, Balcony, Kitchenette, AC",
+        "hotel_id": 25
+    },
+    {
+        "room_number": "262",
+        "room_type": "Double",
+        "room_price": 496.75,
+        "room_amenities": "WiFi, Kitchenette, AC, Balcony, TV, Sea View",
+        "hotel_id": 43
+    },
+    {
+        "room_number": "943",
+        "room_type": "Deluxe",
+        "room_price": 334.89,
+        "room_amenities": "",
+        "hotel_id": 38
+    },
+    {
+        "room_number": "656",
+        "room_type": "Suite",
+        "room_price": 376.51,
+        "room_amenities": "AC, Mini Bar, WiFi, Balcony, Jacuzzi, Kitchenette, TV",
+        "hotel_id": 39
+    },
+    {
+        "room_number": "666",
+        "room_type": "Family",
+        "room_price": 205.33,
+        "room_amenities": "TV, Sea View",
+        "hotel_id": 6
+    },
+    {
+        "room_number": "262",
+        "room_type": "Single",
+        "room_price": 245.43,
+        "room_amenities": "WiFi, Sea View, Mini Bar, Jacuzzi, Balcony, AC, TV, Kitchenette",
+        "hotel_id": 29
+    },
+    {
+        "room_number": "390",
+        "room_type": "Single",
+        "room_price": 414.52,
+        "room_amenities": "",
+        "hotel_id": 53
+    },
+    {
+        "room_number": "970",
+        "room_type": "Deluxe",
+        "room_price": 493.29,
+        "room_amenities": "WiFi, Kitchenette, AC, Mini Bar, TV, Jacuzzi, Sea View, Balcony",
+        "hotel_id": 47
+    },
+    {
+        "room_number": "724",
+        "room_type": "Deluxe",
+        "room_price": 192.59,
+        "room_amenities": "Jacuzzi, AC, Mini Bar, TV, WiFi, Kitchenette, Sea View, Balcony",
+        "hotel_id": 1
+    },
+    {
+        "room_number": "125",
+        "room_type": "Double",
+        "room_price": 433.23,
+        "room_amenities": "AC, Balcony, TV, Jacuzzi",
+        "hotel_id": 22
+    },
+    {
+        "room_number": "309",
+        "room_type": "Family",
+        "room_price": 112.17,
+        "room_amenities": "TV, WiFi",
+        "hotel_id": 50
+    },
+    {
+        "room_number": "698",
+        "room_type": "Deluxe",
+        "room_price": 228.98,
+        "room_amenities": "Sea View, WiFi, TV, Jacuzzi, Balcony, AC, Kitchenette, Mini Bar",
+        "hotel_id": 37
+    },
+    {
+        "room_number": "132",
+        "room_type": "Deluxe",
+        "room_price": 472.89,
+        "room_amenities": "Balcony, Jacuzzi, AC, Kitchenette, Mini Bar, TV, WiFi, Sea View",
+        "hotel_id": 37
+    },
+    {
+        "room_number": "943",
+        "room_type": "Single",
+        "room_price": 110.43,
+        "room_amenities": "Sea View, WiFi, AC, TV, Mini Bar, Balcony, Kitchenette, Jacuzzi",
+        "hotel_id": 36
+    },
+    {
+        "room_number": "858",
+        "room_type": "Double",
+        "room_price": 321.7,
+        "room_amenities": "Sea View, Mini Bar, Kitchenette, Balcony",
+        "hotel_id": 23
+    },
+    {
+        "room_number": "205",
+        "room_type": "Family",
+        "room_price": 133.75,
+        "room_amenities": "TV, Mini Bar, Sea View, Kitchenette, AC, Balcony, WiFi, Jacuzzi",
+        "hotel_id": 49
+    },
+    {
+        "room_number": "713",
+        "room_type": "Deluxe",
+        "room_price": 309.64,
+        "room_amenities": "Sea View, Mini Bar, Balcony, AC, TV, WiFi, Kitchenette",
+        "hotel_id": 54
+    },
+    {
+        "room_number": "742",
+        "room_type": "Family",
+        "room_price": 426.72,
+        "room_amenities": "WiFi, Jacuzzi, TV, Sea View, Kitchenette, Mini Bar, AC, Balcony",
+        "hotel_id": 24
+    },
+    {
+        "room_number": "123",
+        "room_type": "Single",
+        "room_price": 335.41,
+        "room_amenities": "",
+        "hotel_id": 15
+    },
+    {
+        "room_number": "108",
+        "room_type": "Double",
+        "room_price": 181.19,
+        "room_amenities": "WiFi, TV, AC, Kitchenette, Mini Bar, Balcony",
+        "hotel_id": 36
+    },
+    {
+        "room_number": "278",
+        "room_type": "Family",
+        "room_price": 392.6,
+        "room_amenities": "TV, Sea View, Balcony, Mini Bar, WiFi, Kitchenette, AC",
+        "hotel_id": 52
+    },
+    {
+        "room_number": "805",
+        "room_type": "Double",
+        "room_price": 390.49,
+        "room_amenities": "Balcony, Mini Bar, Kitchenette, WiFi",
+        "hotel_id": 31
+    },
+    {
+        "room_number": "975",
+        "room_type": "Deluxe",
+        "room_price": 339.2,
+        "room_amenities": "Balcony, Mini Bar, TV, Jacuzzi",
+        "hotel_id": 48
+    },
+    {
+        "room_number": "547",
+        "room_type": "Deluxe",
+        "room_price": 136.66,
+        "room_amenities": "Kitchenette, Sea View, Jacuzzi, Balcony",
+        "hotel_id": 6
+    },
+    {
+        "room_number": "578",
+        "room_type": "Single",
+        "room_price": 179.85,
+        "room_amenities": "TV, Kitchenette, Balcony, WiFi",
+        "hotel_id": 32
+    },
+    {
+        "room_number": "269",
+        "room_type": "Single",
+        "room_price": 275.1,
+        "room_amenities": "TV, WiFi, AC",
+        "hotel_id": 24
+    },
+    {
+        "room_number": "490",
+        "room_type": "Family",
+        "room_price": 472.16,
+        "room_amenities": "Sea View, TV, Balcony",
+        "hotel_id": 8
+    },
+    {
+        "room_number": "109",
+        "room_type": "Double",
+        "room_price": 459.92,
+        "room_amenities": "Balcony, Jacuzzi, Kitchenette, TV, AC",
+        "hotel_id": 39
+    },
+    {
+        "room_number": "193",
+        "room_type": "Double",
+        "room_price": 471.59,
+        "room_amenities": "WiFi, Jacuzzi, TV, AC",
+        "hotel_id": 50
+    },
+    {
+        "room_number": "690",
+        "room_type": "Double",
+        "room_price": 382.08,
+        "room_amenities": "WiFi, Mini Bar",
+        "hotel_id": 36
+    },
+    {
+        "room_number": "254",
+        "room_type": "Double",
+        "room_price": 147.3,
+        "room_amenities": "Jacuzzi, TV, WiFi, Balcony, Kitchenette, Sea View, AC, Mini Bar",
+        "hotel_id": 11
+    },
+    {
+        "room_number": "951",
+        "room_type": "Double",
+        "room_price": 400.66,
+        "room_amenities": "TV",
+        "hotel_id": 7
+    },
+    {
+        "room_number": "208",
+        "room_type": "Suite",
+        "room_price": 395.58,
+        "room_amenities": "AC, Kitchenette, Balcony, WiFi, Mini Bar, Sea View, TV",
+        "hotel_id": 32
+    },
+    {
+        "room_number": "279",
+        "room_type": "Family",
+        "room_price": 118.6,
+        "room_amenities": "TV, AC, Mini Bar",
+        "hotel_id": 37
+    },
+    {
+        "room_number": "823",
+        "room_type": "Double",
+        "room_price": 153.47,
+        "room_amenities": "TV, Kitchenette, Jacuzzi, Mini Bar, Sea View, WiFi, AC, Balcony",
+        "hotel_id": 51
+    },
+    {
+        "room_number": "645",
+        "room_type": "Single",
+        "room_price": 471.33,
+        "room_amenities": "Sea View, TV, Kitchenette, Jacuzzi, Mini Bar, AC, WiFi",
+        "hotel_id": 4
+    },
+    {
+        "room_number": "679",
+        "room_type": "Single",
+        "room_price": 387.07,
+        "room_amenities": "Kitchenette, Balcony, AC, Jacuzzi, WiFi, Sea View",
+        "hotel_id": 46
+    },
+    {
+        "room_number": "921",
+        "room_type": "Family",
+        "room_price": 73.3,
+        "room_amenities": "Jacuzzi, TV, AC, Balcony, Sea View",
+        "hotel_id": 21
+    },
+    {
+        "room_number": "821",
+        "room_type": "Family",
+        "room_price": 355.19,
+        "room_amenities": "Balcony, Mini Bar, Sea View, Jacuzzi, WiFi, TV, Kitchenette, AC",
+        "hotel_id": 6
+    },
+    {
+        "room_number": "902",
+        "room_type": "Deluxe",
+        "room_price": 259.76,
+        "room_amenities": "AC, Kitchenette, Mini Bar",
+        "hotel_id": 42
+    },
+    {
+        "room_number": "376",
+        "room_type": "Deluxe",
+        "room_price": 376.02,
+        "room_amenities": "Kitchenette, AC, WiFi, Balcony, Mini Bar, Sea View",
+        "hotel_id": 49
+    },
+    {
+        "room_number": "521",
+        "room_type": "Single",
+        "room_price": 120.59,
+        "room_amenities": "AC",
+        "hotel_id": 46
+    },
+    {
+        "room_number": "869",
+        "room_type": "Single",
+        "room_price": 201.07,
+        "room_amenities": "",
+        "hotel_id": 31
+    },
+    {
+        "room_number": "369",
+        "room_type": "Family",
+        "room_price": 120.83,
+        "room_amenities": "Kitchenette, AC, Jacuzzi",
+        "hotel_id": 36
+    },
+    {
+        "room_number": "848",
+        "room_type": "Family",
+        "room_price": 306.13,
+        "room_amenities": "Sea View, Mini Bar, TV, Kitchenette, AC",
+        "hotel_id": 31
+    },
+    {
+        "room_number": "252",
+        "room_type": "Suite",
+        "room_price": 56.85,
+        "room_amenities": "WiFi",
+        "hotel_id": 11
+    },
+    {
+        "room_number": "677",
+        "room_type": "Single",
+        "room_price": 54.84,
+        "room_amenities": "Jacuzzi, Kitchenette, Mini Bar",
+        "hotel_id": 33
+    },
+    {
+        "room_number": "748",
+        "room_type": "Double",
+        "room_price": 182.08,
+        "room_amenities": "Kitchenette, TV, WiFi, Balcony, Mini Bar, Jacuzzi, Sea View, AC",
+        "hotel_id": 2
+    },
+    {
+        "room_number": "236",
+        "room_type": "Family",
+        "room_price": 428.7,
+        "room_amenities": "Balcony, Jacuzzi",
+        "hotel_id": 14
+    }
+]

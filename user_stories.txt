@@ -1,0 +1,16 @@
+Flights search
+- As a visitor, I want to search for flights by specifying a source, destination, and date(s). Source and destination could be either a city or an airport. I want to search for one-way or round-trip flights.
+- As a visitor, I want to view flight details, including departure/arrival times, duration, and layovers.
+- As a visitor, I want to have an auto-complete dropdown to suggest cities and airports as I type in the source or destination field.
+- As a visitor, I want a date picker dropdown to easily select travel dates.
+
+Hotel search
+- As a visitor, I want to search for hotels by check-in date, check-out date, and city. I also want to filter them by name, star-rating, and price range. Search results should display in a list that shows the hotel information, starting price, and a location pinpoint on a map. The results should only reflect available rooms.
+- As a visitor, I want to view detailed hotel information, including room types, amenities, and pricing.
+- As a visitor, I want to view the availability and details of different room types for my selected dates in a selected hotel.
+
+
+User experience.
+- As a visitor, I want a clean and intuitive user interface that allows me to navigate the platform effortlessly.
+- As a visitor, I want the website to be rendered well in different screen sizes (e.g., monitors, laptops, tablets, and mobile devices), ensuring accessibility and usability across devices.
+- As a visitor, I want to option to toggle between dark and light modes, so that I can choose the most comfortable viewing experience.
